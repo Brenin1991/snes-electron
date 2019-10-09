@@ -1,0 +1,16 @@
+{
+	"name": "electron-snes",
+	"version": "1.0.0",
+	"description": "JavaScrip SNES emulator with Electron",
+	"main": "main.js",
+	"scripts": {
+		"start": "electron ."
+	},
+	"repository": "",
+	"keywords": [],
+	"author": "Brenin1991",
+	"license": "MIT",
+	"devDependencies": {
+		"electron": "^6.0.11"
+	}
+}
